@@ -4,3 +4,4 @@
 
 layout: home
 ---
+[Cheatsheet HTML](http://localhost:4000/cheatsheet/)
